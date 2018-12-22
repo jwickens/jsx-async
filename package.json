@@ -1,0 +1,22 @@
+{
+  "name": "jsx-async",
+  "version": "0.0.1",
+  "description": "Render jsx simply",
+  "main": "dist/index.js",
+  "author": "Jonathan Wickens",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.2.2",
+    "@babel/plugin-transform-react-jsx": "^7.2.0",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-jest": "^23.6.0",
+    "jest": "^23.6.0",
+    "jsx-to-string": "^1.4.0",
+    "react": "^16.7.0",
+    "xml": "^1.0.1"
+  },
+  "dependencies": {
+    "@babel/preset-env": "^7.2.3"
+  }
+}
